@@ -1,7 +1,7 @@
 # MoleAttackForAndroid 打地鼠安卓版
 > 初学Android时的练手项目，当时还是用Eclipse+ADT搞的，花了点时间转到AndroidStudio上，入门级的代码水平，请大家多见谅，后面有时间应该会优化一下代码的。。。
 ## 游戏截图
-![游戏中](https://github.com/a641324093/SuperMario/raw/master/mdImg/mole_attack.jpg)
+![游戏中](https://github.com/a641324093/MoleAttack/raw/master/mdImg/mole_attack.jpg)
 ## 开发平台
  - AndroidStudio
  - surfaceview绘制
